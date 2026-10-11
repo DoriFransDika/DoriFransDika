@@ -87,7 +87,7 @@ I'm a fresh **Informatics Engineering graduate** from **Institut Teknologi Padan
         <img src="https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/Supabase-2563EB?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
       </p>
-      <p><a href="https://LINK-LIVE-DEMO-SME"><b>Live demo</b></a> · <a href="https://github.com/DoriFransDika/NAMA-REPO-SME"><b>Repository →</b></a></p>
+      <p><a href="dapur-mamak.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/DoriFransDika/Management-Bisnis"><b>Repository →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ I'm a fresh **Informatics Engineering graduate** from **Institut Teknologi Padan
       <p>
         <img src="https://img.shields.io/badge/React.js-2563EB?style=flat-square&logo=react&logoColor=white" alt="React.js"/>
       </p>
-      <p><a href="https://mesin-pencetak-kartu.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/DoriFransDika/mesin-pencetak-kartu"><b>Repository →</b></a></p>
+      <p><a href="mesin-pencetak-kartu.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/DoriFransDika/mesin-pencetak-kartu"><b>Repository →</b></a></p>
     </td>
   </tr>
 </table>
