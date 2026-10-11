@@ -78,7 +78,7 @@ I'm a fresh **Informatics Engineering graduate** from **Institut Teknologi Padan
         <img src="https://img.shields.io/badge/React.js-2563EB?style=flat-square&logo=react&logoColor=white" alt="React.js"/>
         <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
       </p>
-      <p><a href="https://github.com/DoriFransDika/NAMA-REPO-COFFEE"><b>View repository →</b></a></p>
+      <p><a href="https://github.com/DoriFransDika/Sistem-Peramalan-Penjualan-Menggunakan-Holt-Winters"><b>View repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧾 SME Business & Inventory System</h3>
