@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/dori-frans-dika"><img src="https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:dorifransdikaa@gmail.com"><img src="https://img.shields.io/badge/Email-123B68?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://my-portfolio-alpha-nine-51.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://dori-fransdika.my.id"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
